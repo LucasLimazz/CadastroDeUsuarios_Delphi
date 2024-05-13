@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/26 19:32:59.000.740,=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/26 19:33:11.000.883,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\CRUDcadastros\UPrincipal.dfm</Transaction>
+    <Transaction>2024/02/26 19:33:11.000.883,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\CRUDcadastros\UPrincipal.pas</Transaction>
+    <Transaction>2024/02/26 19:35:40.000.804,=C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/26 20:18:46.000.047,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\CRUDcadastros\Unit1.pas</Transaction>
+    <Transaction>2024/02/26 20:18:46.000.047,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\CRUDcadastros\Unit1.dfm</Transaction>
+    <Transaction>2024/02/26 20:18:59.000.862,C:\Users\lucas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\CRUDcadastros\Project1.dproj</Transaction>
+    <Transaction>2024/02/26 21:51:45.000.472,=C:\CRUDcadastros\Unit2.pas</Transaction>
+    <Transaction>2024/02/26 22:13:06.000.044,C:\CRUDcadastros\U_Login.dfm=C:\CRUDcadastros\Unit2.dfm</Transaction>
+    <Transaction>2024/02/26 22:13:06.000.044,C:\CRUDcadastros\U_Login.pas=C:\CRUDcadastros\Unit2.pas</Transaction>
+    <Transaction>2024/02/27 12:36:59.000.355,=C:\CRUDcadastros\uFormat.pas</Transaction>
+  </Transactions>
+</BorlandProject>
